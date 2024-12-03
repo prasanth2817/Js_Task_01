@@ -1,0 +1,52 @@
+.content-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 500px;
+  background-color: black;
+  border: solid red 1.5px;
+  margin-left: 30%;
+}
+.shape-div {
+  background-color: aliceblue;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.text-div {
+  font-weight: 600;
+  font-size: 2rem;
+  margin-left: 37%;
+  margin-top: 6rem;
+}
+.button-div {
+  display: flex;
+  gap: 2rem;
+  margin-left: 28%;
+  padding: 3rem;
+}
+.button-red{
+    width: 6rem;
+    padding: 8px;
+    color: red; 
+}
+.button-green{
+    color: green;
+    width: 6rem;
+    padding: 8px;
+}
+.button-blue{
+    color: blue;
+    width: 6rem;
+    padding: 8px;
+}
+.button-reset{
+    width: 6rem;
+    padding: 8px;
+}
+.inputbox{
+padding: 0.5rem;
+margin-left: 45%;
+}
+
